@@ -1,0 +1,11 @@
+*
+!README.md
+!.gitignore
+!.gitattributes
+!.editorconfig
+!Assets/
+!Assets/**
+!Packages/
+!Packages/**
+!ProjectSettings/
+!ProjectSettings/**
